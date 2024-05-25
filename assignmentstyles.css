@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    color: black;
+    font-size: medium;
+}
+.tableau {
+    height: 200px;
+    width: 200px;
+}
+.text {
+    bottom: 20px;
+    left: 20px;
+
+}
+.pic {
+    bottom: 20px;
+    right: 20px;
+}
